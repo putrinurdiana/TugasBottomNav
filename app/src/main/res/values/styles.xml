@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TravelApp" parent="Theme.AppCompat.DayNight">
+        <!-- Primary color for the toolbar -->
+        <item name="colorPrimary">#525BFF</item>
+        <!-- Color for toolbar dark mode (optional) -->
+        <item name="colorPrimaryDark">#525BFF</item>
+        <!-- Toolbar text color -->
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>
